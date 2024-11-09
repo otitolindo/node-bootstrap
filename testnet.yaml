@@ -3,5 +3,5 @@ Bootstrap:
   ChainID: 80002
   ChainURL: "https://rpc-amoy.polygon.technology/"
   ChainWSURL: "wss://polygon-amoy-bor-rpc.publicnode.com"
-  NodeCtrlAddress: "0x1F59347c5998a8Bb5E5f3ba8ec20c030CA5dd1D2"
+  NodeCtrlAddress: "0xb189a830Cf9A6ad73c58C78F91FF972666CFD306"
   DcapAddress: "0xE422e3b97834912D6c85cfbC6E0e276936954430"
