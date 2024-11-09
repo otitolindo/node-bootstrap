@@ -1,0 +1,6 @@
+Network: "testnet"
+Bootstrap:
+  ChainID: 80002
+  ChainURL: "https://rpc-amoy.polygon.technology/"
+  NodeCtrlAddress: "0x1F59347c5998a8Bb5E5f3ba8ec20c030CA5dd1D2"
+  DcapAddress: "0xE422e3b97834912D6c85cfbC6E0e276936954430"
