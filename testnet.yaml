@@ -5,3 +5,5 @@ Bootstrap:
   ChainWSURL: "wss://polygon-amoy-bor-rpc.publicnode.com"
   NodeCtrlAddress: "0x60564134a4815aBD3cA5e5BF4Fc314AACe61e089"
   DcapAddress: "0xE422e3b97834912D6c85cfbC6E0e276936954430"
+TEE:
+  IpfsURL: "https://greenfield.onebitdev.com/ipfs/"
