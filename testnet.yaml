@@ -6,10 +6,10 @@ Bootstrap:
     ChainWSURL: "wss://polygon-amoy-bor-rpc.publicnode.com"
     ContractAddress: "0xE422e3b97834912D6c85cfbC6E0e276936954430"
   NodeCtrl:
-    ChainID: 80002
-    ChainURL: "https://rpc-amoy.polygon.technology/"
-    ChainWSURL: "wss://polygon-amoy-bor-rpc.publicnode.com"
-    ContractAddress: "0x60564134a4815aBD3cA5e5BF4Fc314AACe61e089"
+    ChainID: 5611
+    ChainURL: "https://opbnb-testnet-rpc.bnbchain.org"
+    ChainWSURL: "wss://opbnb-testnet-rpc.publicnode.com"
+    ContractAddress: "0x1F59347c5998a8Bb5E5f3ba8ec20c030CA5dd1D2"
   HeartbeatURL: "https://greenfield.onebitdev.com/glacier-node/api/nodes/:id/heartbeat"
 TEE:
   IpfsURL: "https://greenfield.onebitdev.com/ipfs/"
