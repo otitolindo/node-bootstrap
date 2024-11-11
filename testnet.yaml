@@ -10,6 +10,6 @@ Bootstrap:
     ChainURL: "https://rpc-amoy.polygon.technology/"
     ChainWSURL: "wss://polygon-amoy-bor-rpc.publicnode.com"
     ContractAddress: "0x60564134a4815aBD3cA5e5BF4Fc314AACe61e089"
-  HeartbeatURL: "https://greenfield.onebitdev.com/glacier-node/api/nodes/heartbeat"
+  HeartbeatURL: "https://greenfield.onebitdev.com/glacier-node/api/nodes/:id/heartbeat"
 TEE:
   IpfsURL: "https://greenfield.onebitdev.com/ipfs/"
