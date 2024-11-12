@@ -1,10 +1,10 @@
 Network: "testnet"
 Bootstrap:
   Dcap:
-    ChainID: 80002
-    ChainURL: "https://rpc-amoy.polygon.technology/"
-    ChainWSURL: "wss://polygon-amoy-bor-rpc.publicnode.com"
-    ContractAddress: "0xE422e3b97834912D6c85cfbC6E0e276936954430"
+    ChainID: 1398243
+    ChainURL: "https://1rpc.io/ata/testnet"
+    ChainWSURL: "wss://1rpc.io/ata/testnet"
+    ContractAddress: "0xefE368b17D137E86298eec8EbC5502fb56d27832"
   NodeCtrl:
     ChainID: 5611
     ChainURL: "https://opbnb-testnet-rpc.bnbchain.org"
