@@ -10,6 +10,11 @@ Bootstrap:
     ChainURL: "https://opbnb-testnet-rpc.bnbchain.org"
     ChainWSURL: "wss://opbnb-testnet-rpc.publicnode.com"
     ContractAddress: "0x1F59347c5998a8Bb5E5f3ba8ec20c030CA5dd1D2"
+  License:
+    ChainID: 5611
+    ChainURL: "https://opbnb-testnet-rpc.bnbchain.org"
+    ChainWSURL: "wss://opbnb-testnet-rpc.publicnode.com"
+    ContractAddress: "0xb813466384c915280f5b8ffa005fcc2cb5cf5b87"
   HeartbeatURL: "https://greenfield.onebitdev.com/glacier-node/api/nodes/:id/heartbeat"
 TEE:
   IpfsURL: "https://greenfield.onebitdev.com/ipfs/"
